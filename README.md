@@ -37,4 +37,11 @@ $equations \enspace in \enspace \LaTeX$
 
 ### and subsubheadings
 
-A new edit
+----
+
+# New heading after 4 hyphens
+
+---
+
+# New heading after 3 hyphens
+
