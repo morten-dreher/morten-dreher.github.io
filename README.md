@@ -1,3 +1,18 @@
+<!-- badges: start -->
+[![CRAN Status](https://www.r-pkg.org/badges/version/rpact)](https://cran.r-project.org/package=rpact)
+[![R-CMD-check](https://github.com/rpact-com/rpact/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/rpact-com/rpact/actions/workflows/R-CMD-check.yaml)
+[![Total downloads](https://cranlogs.r-pkg.org/badges/grand-total/rpact?color=blue)](https://CRAN.R-project.org/package=rpact)
+[![Monthly downloads](https://cranlogs.r-pkg.org/badges/rpact?color=blue)](https://CRAN.R-project.org/package=rpact)
+<!-- badges: end -->
+
+
+``` r
+install.packages("rpact")
+```
+
+<https://www.rpact.org> [^1]
+
+
 # morten-dreher.github.io
 A test GitHub page  
 
@@ -36,3 +51,5 @@ $equations \enspace in \enspace \LaTeX$
 ## And subheadings
 
 ### and subsubheadings
+
+[^1]: blablabla
